@@ -1,6 +1,7 @@
 <template>
-  <div center flex-col text-gray-500>
+  <Header />
+  <main container mx-auto m-auto xl:px-80>
     <RouterView />
     <Footer />
-  </div>
+  </main>
 </template>
