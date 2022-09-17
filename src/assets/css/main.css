@@ -10,3 +10,8 @@ body,
 html.dark {
   background: #121212;
 }
+
+* {
+  --un-text-opacity: 1;
+  color: rgba(107, 114, 128, var(--un-text-opacity));
+}

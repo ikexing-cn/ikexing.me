@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <span text="gray-5 2xl" font-bold>Hello World</span>
+  <span text-2xl font-bold dark:c-white>Hello World</span>
 </template>
