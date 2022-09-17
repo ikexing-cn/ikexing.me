@@ -3,7 +3,7 @@
 
 <template>
   <header
-    p-5 md:p-9 flex="~" justify-end wfull
+    p-5 md:p-9 flex="~" justify-end wfull font-sans
     un-children="ml-3 pointer dark:hover:c-coolGray-3 hover:c-coolGray-6 dark:c-white leading-4.5"
   >
     <div
