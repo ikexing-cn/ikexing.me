@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <main container mx-auto m-auto px-10 xl:px-80>
+  <main m-auto px-10 font-sans xl="center">
     <RouterView />
     <Footer />
   </main>

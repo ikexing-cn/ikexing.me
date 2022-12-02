@@ -11,6 +11,8 @@ export default defineConfig({
     { center: 'flex items-center justify-center' },
     { between: 'flex items-center justify-between' },
     { btn: 'rounded select-none px-2 py-1 inline-block bg-gray-600 text-white' },
+    { 'base-color': 'text-gray-600 dark:text-white' },
+    { 'base-hover': 'dark:hover:c-coolGray-3 hover:c-coolGray-8' },
   ],
   rules: [
     [
